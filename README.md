@@ -11,5 +11,6 @@ Usamos [kepler.gl](https://kepler.gl/)
 
 El mapa interactivo puede verse aquí
 
-<iframe src="kepler.gl.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="90%" allowfullscreen></iframe>
-
+<div style="position:relative;overflow: hidden;width:100%;padding-top: 56.25%;">
+		  <iframe src="kepler.gl.html" style="border:0px;position:absolute;top:0;left:0;bottom:0;right:0;width:100%;height:100%;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+</div>
