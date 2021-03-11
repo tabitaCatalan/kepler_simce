@@ -1,4 +1,7 @@
 # Simce 2019 Matemática, visto en Kepler
+
+Proyecto en colaboración con el m8 [MSuil](https://github.com/MSuil).
+
 ## Datos 
 
 Usamos datos del Simce obtenidos de [INSERTAR FUENTE]
